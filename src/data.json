@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Learning React: Modern Patterns for Developing React Apps 2nd Edition",
+    "price": "$99.99",
+    "rating": "⭐⭐⭐⭐",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/51Kwaw5nInL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Effective TypeScript: 62 Specific Ways to Improve Your TypeScript 1st Edition",
+    "price": "$49.99",
+    "rating": "⭐⭐⭐",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/41jnU0V+cBL._SX379_BO1,204,203,200_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Garmin 010-02427-00 Venu Sq, GPS Smartwatch with Bright Touchscreen Display, Up to 6 Days of Battery Life, Slate",
+    "price": "$169.99",
+    "rating": "⭐⭐⭐⭐",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71NZ1NpJ6LL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Belkin SoundForm Elite Hi-Fi Smart Speaker + Wireless Charger (Alexa Voice-Controlled Bluetooth Speaker) Sound Technology by Devialet (Black)",
+    "price": "$69.99",
+    "rating": "⭐⭐⭐⭐",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/91H6S4YyWgL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Microsoft Surface Pro FJR-00001 Laptop (Windows 10 Pro, Intel Core M, 12.3 LCD Screen Storage: 128 GB, RAM: 4 GB) Black",
+    "price": "$729.99",
+    "rating": "⭐⭐⭐⭐",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/612OuMs29eL._AC_SL1200_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Sony X900H 85 Inch TV: 4K Ultra HD Smart LED TV with HDR, Game Mode for Gaming, and Alexa Compatibility - 2020 Model",
+    "price": "$1199.99",
+    "rating": "⭐⭐⭐⭐",
+    "img": "https://www.sony-asia.com/image/9cd5e1e560fa2e0b50978136c598e378?fmt=pjpeg&wid=1014&hei=396&bgcolor=F1F5F9&bgc=F1F5F9"
+  }
+]

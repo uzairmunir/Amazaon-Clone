@@ -1,0 +1,29 @@
+.login-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+}
+.login-logo {
+  width: 100px;
+  object-fit: contain;
+  margin: 10px 0px;
+}
+.login {
+  width: auto;
+  height: auto;
+  padding: 10px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.btn-primary {
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(221, 177, 32);
+  border: none;
+}
+.signup-btn {
+  background-color: rgb(230, 225, 230);
+  margin-bottom: 15px;
+}
